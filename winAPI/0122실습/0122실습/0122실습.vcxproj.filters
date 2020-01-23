@@ -57,6 +57,9 @@
     <ClCompile Include="14Selected_Menu.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="15ContextMenu.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Image Include="..\..\..\..\air.bmp">
